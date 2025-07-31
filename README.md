@@ -21,13 +21,13 @@ Developed as a mini-project for Semester IV (2023–24) under the Department of 
 ## 📱 App Screenshots
 
 ### 🔸 Splash Screen
-![Splash](ScreenShots/HomePage.jpeg)
+![Splash](ScreenShots/SplashScreen.jpeg)
 
 ### 🔸 Sign-Up Page
-![Sign-Up](screenshots/signup_page.png)
+![Sign-Up](ScreenShots/SignUpScreen.jpg)
 
 ### 🔸 Login Page
-![Login](screenshots/login_page.png)
+![Login](ScreenShots/LoginScreen.jpeg)
 
 ### 🔸 Homepage
 ![Homepage](ScreenShots/HomePage.jpeg)
