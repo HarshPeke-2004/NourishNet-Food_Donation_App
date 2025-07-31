@@ -23,7 +23,7 @@ Developed as a mini-project for Semester IV (2023–24) under the Department of 
 > ⚠️ Replace `screenshots/` paths with the correct filenames after uploading them to your GitHub repo.
 
 ### 🔸 Splash Screen
-![Splash](screenshots/splash_screen.png)
+![Splash](ScreenShots/HomePage.jpeg)
 
 ### 🔸 Sign-Up Page
 ![Sign-Up](screenshots/signup_page.png)
