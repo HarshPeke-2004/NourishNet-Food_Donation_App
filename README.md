@@ -32,17 +32,8 @@ Developed as a mini-project for Semester IV (2023–24) under the Department of 
 ### 🔸 Homepage
 ![Homepage](ScreenShots/HomePage.jpeg)
 
-### 🔸 NGO Details Page
-![NGO](screenshots/ngo_details.png)
-
 ### 🔸 Donation Options
-![Donation](screenshots/donation_page.png)
-
-### 🔸 Cash Donation
-![Cash](screenshots/cash_donation.png)
-
-### 🔸 Notification Popup
-![Notification](screenshots/notification.png)
+![Donation](ScreenShots/DonationScreen.jpg)
 
 ---
 
