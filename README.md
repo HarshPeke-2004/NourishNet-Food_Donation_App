@@ -20,8 +20,6 @@ Developed as a mini-project for Semester IV (2023–24) under the Department of 
 
 ## 📱 App Screenshots
 
-> ⚠️ Replace `screenshots/` paths with the correct filenames after uploading them to your GitHub repo.
-
 ### 🔸 Splash Screen
 ![Splash](ScreenShots/HomePage.jpeg)
 
@@ -32,7 +30,7 @@ Developed as a mini-project for Semester IV (2023–24) under the Department of 
 ![Login](screenshots/login_page.png)
 
 ### 🔸 Homepage
-![Homepage](screenshots/homepage.png)
+![Homepage](ScreenShots/HomePage.jpeg)
 
 ### 🔸 NGO Details Page
 ![NGO](screenshots/ngo_details.png)
